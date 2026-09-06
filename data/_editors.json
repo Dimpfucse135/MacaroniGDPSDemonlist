@@ -1,0 +1,27 @@
+[
+    {
+        "role": "owner",
+        "name": "Macaroni",
+        "link": "https://www.youtube.com/@HolyMacaroniWhybruh"
+    },
+    {
+        "role": "admin",
+        "name": "Silverjetes",
+        "link": "https://www.youtube.com/@silverjetes"
+    },
+    {
+        "role": "dev",
+        "name": "Original Site",
+        "link": "https://github.com/TheShittyList/GDListTemplate"
+    },
+    {
+        "role": "dev",
+        "name": "Prometheous",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "Macaroni",
+        "link": "https://www.youtube.com/@HolyMacaroniWhybruh"
+    }
+]
