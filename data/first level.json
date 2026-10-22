@@ -7,5 +7,11 @@
     "type": "youtube",
     "verification": "https://youtu.be/bGZ-yPbzScM",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "Bandi",
+            "link": "https://youtu.be/qo9d1ZxeuBQ",
+            "percent": 100
+        }
+    ]
 }
